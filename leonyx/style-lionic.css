@@ -90,7 +90,7 @@ margin-right: 50px;
     padding-bottom: 130px;
 }
 .section-hero{
-    background: url('C:/Users/Аська/Desktop/portfolio/leonyx/img/hero-img.png') right center no-repeat  ;
+    background: url('/leonyx/img/hero-img.png') right center no-repeat  ;
     background-size: contain;
     height: 500px;
     
@@ -131,7 +131,7 @@ margin-right: 50px;
     margin-right: 10px;
     background-size: contain;
     transform: translateZ(1px);
-    background: url(C:/Users/Аська/Desktop/portfolio/leonyx/img/shield-icon.png) center center no-repeat transparent;
+    background: url(/leonyx/img/shield-icon.png) center center no-repeat transparent;
 }
 /* what we do */
 .section-heading{
@@ -266,14 +266,14 @@ margin-right: 50px;
     background-color: transparent;
 }
 .section-contacts-icon-gps{
-    background-image: url('C:/Users/Аська/Desktop/portfolio/leonyx/img/gps.jpg');
+    background-image: url('/leonyx/img/gps.jpg');
 
 }
 .section-contacts-icon-phone{
-    background-image: url('C:/Users/Аська/Desktop/portfolio/leonyx/img/phone.jpg');
+    background-image: url('/leonyx/img/phone.jpg');
 }
 .section-contacts-icon-mail{
-    background-image: url('C:/Users/Аська/Desktop/portfolio/leonyx/img/mail.jpg');
+    background-image: url('/leonyx/img/mail.jpg');
     background-size: auto 19px;
 }
 .section-contact-heading{
@@ -324,19 +324,19 @@ margin-right: 50px;
     background-position: center center;
 }
 .footer-social-icon-twitter{
-    background-image: url(C:/Users/Аська/Desktop/portfolio/leonyx/img/Twitter.foot.svg);
+    background-image: url(/leonyx/img/Twitter.foot.svg);
     width: 17px;
     height: 17px;
 }
 .footer-social-icon-in{
-    background-image: url(C:/Users/Аська/Desktop/portfolio/leonyx/img/Linkedin.foot.svg);
+    background-image: url(/leonyx/img/Linkedin.foot.svg);
     width: 18px;
     height: 20px;
     color: #494949;
     transform: translateY(-2px);
 }
 .footer-social-icon-email{
-    background-image: url(C:/Users/Аська/Desktop/portfolio/leonyx/img/email.foot.svg);
+    background-image: url(/leonyx/img/email.foot.svg);
     width: 24px;
     height: 18px;
     color: #494949;
